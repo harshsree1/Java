@@ -1,4 +1,4 @@
-package sectionseven.POJO;
+package sectionseven.PojoExample;
 
 public class Student {
     private String id;

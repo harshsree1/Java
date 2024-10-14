@@ -35,7 +35,7 @@ public class Account {
                 System.out.println("Insufficient Funds! You only have $" + balance + "in your account.");
             }
             balance -= withdrawalAmount;
-            System.out.println("withdrawal of $" + withdrawalAmount + "made. New balance is $" + balance);
+            System.out.println("withdrawal of $ " + withdrawalAmount + " made. New balance is $" + balance);
         }
 
 
