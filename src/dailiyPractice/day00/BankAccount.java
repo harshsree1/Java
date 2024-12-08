@@ -1,4 +1,4 @@
-package dailiyPractice.day01;
+package dailiyPractice.day00;
 
 public class BankAccount {
 
