@@ -1,4 +1,4 @@
-package gptRecommendation;
+package gptRecommendation.Day01;
 
 import java.util.Scanner;
 
