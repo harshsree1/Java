@@ -11,4 +11,11 @@ package gptRecommendation.Day07;
 Cat: Meow*/
 
 public class Main {
+    public static void main(String[] args) {
+        Dog myDog = new Dog("Pretty", 2);
+        Cat myCat = new Cat("Flasha", 1);
+
+        myDog.makeSound();
+        myCat.makeSound();
+    }
 }
