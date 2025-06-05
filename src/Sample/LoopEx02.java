@@ -9,10 +9,10 @@ public class LoopEx02 {
         while(true) {
             System.out.println(" enter a number: ");
             sum += s.nextInt();
-            if (sum < 100)
+            if (sum > 100)
                 break;
 
         }
-        System.out.println("Done");
+        System.out.println("Done :"+sum);
     }
 }
